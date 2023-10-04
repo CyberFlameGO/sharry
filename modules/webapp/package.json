@@ -9,7 +9,7 @@
     "autoprefixer": "^10.4.4",
     "cssnano": "^5.1.7",
     "flag-icon-css": "^3.5.0",
-    "postcss": "^8.4.12",
+    "postcss": "^8.4.31",
     "postcss-cli": "^10.0.0",
     "postcss-import": "^15.0.0",
     "postcss-purgecss": "^2.0.3",
